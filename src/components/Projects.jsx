@@ -16,7 +16,7 @@ const projects = [
   },
   {
     id: 'health-master',
-    title: 'Health Minister',
+    title: 'Health Master',
     description:
       'A healthcare-related web application focused on presenting patient and service information through a simple, accessible interface.',
     tech: ['React.js', 'JavaScript', 'CSS'],
